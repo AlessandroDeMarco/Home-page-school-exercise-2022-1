@@ -1,0 +1,15 @@
+
+ body {background-attachment:fixed;background-size:cover; background-image:url(/Users/alessandrodemarco/Desktop/dante-sfondo.jpg);}
+ 
+ 
+ 
+
+ h1 { text-align: center; color: orange; font-style: italic; }
+
+  h2 {text-align: center; color: red; font-style: oblique;} 
+
+  h4 {text-align: center; color: blue; font-style: italic;}
+
+  h5 {text-align: left; color:blue;font-style: italic; font-size: 20px ; }
+
+  button {color: blue; background-color:brown;}
